@@ -3,8 +3,8 @@ import Image from 'next/image'
 const year = new Date().getFullYear()
 
 export default {
-  repository: 'https://github.com/shuding/nextra', // project repo
-  docsRepository: 'https://github.com/shuding/nextra', // docs repo
+  repository: 'https://github.com/calibreaudio/calibreaudio-documentation', // project repo
+  docsRepository: 'https://github.com/calibreaudio/calibreaudio-documentation', // docs repo
   branch: 'main', // branch of docs
   path: '/', // path of docs
   titleSuffix: ' – Calibre Audio',
